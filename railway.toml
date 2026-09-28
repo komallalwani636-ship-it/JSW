@@ -1,0 +1,2 @@
+[build]
+# Root-level railway.toml — see per-service configs in backend/ and frontend/

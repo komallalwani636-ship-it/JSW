@@ -1,0 +1,6 @@
+[lint]
+ignore = ["B008"]
+
+[lint.per-file-ignores]
+"backend/main.py" = ["E402"]
+"backend/tests/*.py" = ["E402"]

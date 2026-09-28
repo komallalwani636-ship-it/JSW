@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+*.egg
+.hypothesis/
+.pytest_cache/
+*.pyc
+
+# Environment
+.env
+*.env
+
+# Node
+node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker & Local Data
+*.log
+*.db
+*.sqlite
+*.sqlite3
+uploads/
+.kiro/
+
